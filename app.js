@@ -1,4 +1,4 @@
-const timeLeft = document.querySelector('time-left')
+const timeLeft = document.querySelector('#time-left')
 
 const today = new Date()
 const birthday = new Date('11/04/2022')
